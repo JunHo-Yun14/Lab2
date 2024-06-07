@@ -22,16 +22,9 @@ void func(int cnt) {
 		}
 		cout<<endl;
 	}
-
-
-
-
-
-
 }
 
 int main() {
-   cin >> N >> M
-	   ;
+   cin >> N >> M;
    func(0);
 }
